@@ -86,4 +86,7 @@ Learn more about me, please check CV, [LinkedIn](https://www.linkedin.com/in/chr
 **02/16 - 03/16    Skewed Document Image Correction     XueXiBao**
 - The idea is to turn your smartphone into a fast, efficient scanner, one that automatically deposits documents, business cards, receipts, books, whiteboards, and other real-world items into a various destination with images automatically adjusted as you move around. 
 
- # Last update: 2019-04-03
+
+---
+
+ #### Last update: 2019-04-03
