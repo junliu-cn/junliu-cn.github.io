@@ -1,6 +1,30 @@
-### Jun Liu(刘俊)
-Deep Learning Algorithm Engineer,  PingAn Technology, Inc.
-Contact details: jun.liu@cnu.edu.cn or jun.liu.cnu@gmail.com
+<html>
+<table width="100%" border="0" align="center">
+    <tr>
+    <td width="5%"></td>
+    <td width="50%">
+        <div id="header" style="float:left">
+        <h1>Jun Liu(刘俊)</h1>
+        <p>Algorithm Engineer,  <br>
+        PingAn Technology, Inc. <br>
+	    Shen Zhen, Guang Dong, China. </p>
+        <p> <em> Email: <a href="mailto:jun.liu@cnu.edu.cn">jun.liu@cnu.edu.cn</a> or <a href="mailto:jun.liu.cnu@gmail.com">jun.liu.cnu@gmail.com</a> 
+        </em> </p>
+		<p> 
+		</p>
+        </div>
+    </td>
+    <td width="30%">
+        <div id="photo" style="float:right;">
+        <img src="https://media.licdn.com/dms/image/C5103AQGBgs0MXvd4NA/profile-displayphoto-shrink_200_200/0?e=1559779200&v=beta&t=uzI3pPT1rZri0znrOqmBfZsfzIpkfuPKLpyCqhe5Zqk" alt="my photo" style="width:311px;height:232;"> 
+        </div>
+    </td>
+    <td width="5%"></td>
+    </tr>
+</table>
+</html>
+
+
 
 
 ---
@@ -33,21 +57,21 @@ Learn more about me, please check [CV](https://drive.google.com/open?id=127YPQsk
 
 ---
 # Education
-2014 - 2017 Master's Degree in Applied Statistics     Capital Normal University
+**2014 - 2017 Master's Degree in Applied Statistics     Capital Normal University**
 - Optimization Theory and Algorithm; Data Structure; Numerical Analysis; Digital Image Processing; Computer Graphics; Pattern Recognition And Machine Learning, etc .
 
-2009 - 2013 Bachelor's Degree in Computer Science And Technology     Hu Nan Institute Of Technology
+**2009 - 2013 Bachelor's Degree in Computer Science And Technology     Hu Nan Institute Of Technology**
 - C/C++ Programming; Data Structure; Computer System; Computer Theory; Discrete Mathematics; Probability Statistics; Linear Algebra, etc.
 
 
 ---
 
 # Awards
-- 02/2015 Single Scholarship     CNU
-- 10/2014 National Grants     CNU
-- 10/2011 National Scholarship  Third Prize     HNIT
-- 06/2011 College Students Scientific And Technological Competition  Third Prize     HNIT
-- 10/2010 National Scholarship  Third Prize    HNIT
+- 02/2015 Single Scholarship     **CNU**
+- 10/2014 National Grants     **CNU**
+- 10/2011 National Scholarship  Third Prize     **HNIT**
+- 06/2011 College Students Scientific And Technological Competition  Third Prize     **HNIT**
+- 10/2010 National Scholarship  Third Prize    **HNIT**
 
 
 ---
