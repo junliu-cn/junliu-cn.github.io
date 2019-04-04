@@ -1,6 +1,3 @@
-
-# HOME
-
 ### Jun Liu(刘俊)
 Deep Learning Algorithm Engineer,  PingAn Technology, Inc.
 Contact details: jun.liu@cnu.edu.cn or jun.liu.cnu@gmail.com
