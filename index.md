@@ -80,7 +80,7 @@ Learn more about me, please check CV, [LinkedIn](https://www.linkedin.com/in/chr
 **05/16 - 09/16    Expression Transfer Based On 3DMM     Intel Labs China**
 - Reconstruct 3D human face from a single 2D image based on a 3D Morphable Model(3DMM), including estimate head's pose, face shape and face expression coefficients, etc.  With predefined 68 3D Landmarks on 3DMM and detected 68 2D key points of the 2D image, we construct 68 2D-3D landmark pairs and use Gauss-Newton to optimize the distance between 3D-2D points by projecting 3D landmarks on to the 2D image. Once we finish 3D face reconstruction,  face editing like expression variation could be done with the instruction of reconstructed 3D face. For example, a different facial expression could be easily transferred onto the face of the 2D image without losing its identity.
 
-**05/16 - 09/16    Face Frontalization     Intel Labs China**
+**05/16 - 09/16    Face Frontalisation     Intel Labs China**
 - “Frontalisation” is the process of synthesizing frontal facing views of faces appearing in single unconstrained photos. Our method produces a new face image of frontal views which can be used for face recognition and other purposes.
 
 **02/16 - 03/16    Skewed Document Image Correction     XueXiBao**
@@ -88,5 +88,4 @@ Learn more about me, please check CV, [LinkedIn](https://www.linkedin.com/in/chr
 
 
 ---
-
  #### Last update: 2019-04-03
