@@ -1,6 +1,3 @@
-
-# HOME
-
 ### Jun Liu(刘俊)
 Deep Learning Algorithm Engineer,  PingAn Technology, Inc.
 Contact details: jun.liu@cnu.edu.cn or jun.liu.cnu@gmail.com
@@ -15,10 +12,10 @@ Learn more about me, please check [CV](https://drive.google.com/open?id=127YPQsk
 ---
 
 # Work Experience 
-**03/19 - Present   Algorithm Engineer at [PingAn Technology](https://tech.pingan.com/en/)**
+**03/19 - Present   Algorithm Engineer at [PingAn Technology, Inc](https://tech.pingan.com/en/)**
 - Deep Learning based high performance algorithm development for Medical image analysis.
 
-**09/17 - 03/19    Algorithm Engineer at [Imsight Technology](http://www.imsightmed.com/article/en), work with [Dr.Chen](http://appsrv.cse.cuhk.edu.hk/~hchen/) and [Dr.Dou](https://carrend.github.io/)**
+**09/17 - 03/19    Algorithm Engineer at [Imsight Medical Technology, Inc](http://www.imsightmed.com/article/en), work with [Dr.Chen](http://appsrv.cse.cuhk.edu.hk/~hchen/) and [Dr.Dou](https://carrend.github.io/)**
 - Deep Learning based high performance algorithm development for Medical image analysis.
 
 **07/17 - 09/17    Research Assistant  at [Institute of Biomedical and Health Engineering,  SIAT](http://english.siat.cas.cn/SI2017/IBHE2017/)**
@@ -88,4 +85,5 @@ Learn more about me, please check [CV](https://drive.google.com/open?id=127YPQsk
 
 
 ---
- #### Last update: 2019-04-03
+
+#### Last update: 2019-04-03
