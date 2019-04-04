@@ -1,3 +1,6 @@
+
+# HOME
+
 ### Jun Liu(刘俊)
 Deep Learning Algorithm Engineer,  PingAn Technology, Inc.
 Contact details: jun.liu@cnu.edu.cn or jun.liu.cnu@gmail.com
@@ -6,7 +9,7 @@ Contact details: jun.liu@cnu.edu.cn or jun.liu.cnu@gmail.com
 ---
 # About me
 I am currently a Deep Learning Algorithm Engineer at [PingAn Technology, Inc.](https://tech.pingan.com/en/) Formerly I was with [Shenzhen Institutes of Advanced Technology(SIAT) ](http://english.siat.cas.cn/)as a Research Assistant, which I joined after obtained  Master Degree from [the School of Mathematical Sciences, Capital Normal University](http://math.cnu.edu.cn/) at Jun 2017. I also interned at Text Processing Lab of Samsung Electronics and Cognitive Computing Lab of Intel. My research interests mainly revolve around Computer Graphics and Medical Image Analysis with special interest in deep learning techniques for high performance algorithm development.
-Learn more about me, please check CV, [LinkedIn](https://www.linkedin.com/in/chris-j-liu-87471a111/). 
+Learn more about me, please check [CV](https://drive.google.com/open?id=127YPQskghsEp05eZeYwL_3EULCUIHbHM), [LinkedIn](https://www.linkedin.com/in/chris-j-liu-87471a111/). 
 
 
 ---
