@@ -1,8 +1,8 @@
 <html>
 <table width="100%" border="0" align="center">
     <tr>
-    <td width="5%"></td>
-    <td width="60%" bgcolor="#006600">
+    <td width="5%" border="0"></td>
+    <td width="60%" border="0">
         <div id="header" style="float:left">
         <h1>Jun Liu(刘俊)</h1>
         <p>Algorithm Engineer,  <br>
@@ -17,12 +17,12 @@
 		</p>
         </div>
     </td>
-    <td width="30%">
+    <td width="30%" border="0">
         <div id="photo" style="float:right;">
         <img src="https://media.licdn.com/dms/image/C5103AQGBgs0MXvd4NA/profile-displayphoto-shrink_200_200/0?e=1559779200&v=beta&t=uzI3pPT1rZri0znrOqmBfZsfzIpkfuPKLpyCqhe5Zqk" alt="my photo" style="width:311px;height:232;"> 
         </div>
     </td>
-    <td width="5%"></td>
+    <td width="5%" border="0"></td>
     </tr>
 </table>
 </html>
