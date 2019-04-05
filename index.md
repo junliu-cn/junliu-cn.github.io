@@ -2,13 +2,16 @@
 <table width="100%" border="0" align="center">
     <tr>
     <td width="5%"></td>
-    <td width="50%">
+    <td width="60%" bgcolor="#006600">
         <div id="header" style="float:left">
         <h1>Jun Liu(刘俊)</h1>
         <p>Algorithm Engineer,  <br>
         PingAn Technology, Inc. <br>
 	    Shen Zhen, Guang Dong, China. </p>
-        <p> <em> Email: <a href="mailto:jun.liu@cnu.edu.cn">jun.liu@cnu.edu.cn</a> or <a href="mailto:jun.liu.cnu@gmail.com">jun.liu.cnu@gmail.com</a> 
+        <p> <em> Email: 
+        <a href="mailto:jun.liu@cnu.edu.cn">jun.liu@cnu.edu.cn</a> 
+        or 
+        <a href="mailto:jun.liu.cnu@gmail.com">jun.liu.cnu@gmail.com</a> 
         </em> </p>
 		<p> 
 		</p>
@@ -25,11 +28,9 @@
 </html>
 
 
-
-
 ---
-# About me
-I am currently a Deep Learning Algorithm Engineer at [PingAn Technology, Inc.](https://tech.pingan.com/en/) Formerly I was with [Shenzhen Institutes of Advanced Technology(SIAT) ](http://english.siat.cas.cn/)as a Research Assistant, which I joined after obtained  Master Degree from [the School of Mathematical Sciences, Capital Normal University](http://math.cnu.edu.cn/) at Jun 2017. I also interned at Text Processing Lab of Samsung Electronics and Cognitive Computing Lab of Intel. My research interests mainly revolve around Computer Graphics and Medical Image Analysis with special interest in deep learning techniques for high performance algorithm development.
+# About Me
+I am currently a Deep Learning Algorithm Engineer at [PingAn Technology, Inc.](https://tech.pingan.com/en/) Formerly I was with [Shenzhen Institutes of Advanced Technology(SIAT) ](http://english.siat.cas.cn/)as a Research Assistant, which I joined after obtained  Master Degree from [the School of Mathematical Sciences, Capital Normal University](http://math.cnu.edu.cn/) at Jun 2017. I also interned at Text Processing Lab of Samsung Electronics and Cognitive Computing Lab of Intel. My research interests mainly revolve around Artificial Intelligence and Medical Image Analysis with special interest in deep learning techniques for high performance algorithm development.
 Learn more about me, please check [CV](https://drive.google.com/open?id=127YPQskghsEp05eZeYwL_3EULCUIHbHM), [LinkedIn](https://www.linkedin.com/in/chris-j-liu-87471a111/). 
 
 
@@ -39,7 +40,7 @@ Learn more about me, please check [CV](https://drive.google.com/open?id=127YPQsk
 **03/19 - Present   Algorithm Engineer at [PingAn Technology, Inc](https://tech.pingan.com/en/)**
 - Deep Learning based high performance algorithm development for Medical image analysis.
 
-**09/17 - 03/19    Algorithm Engineer at [Imsight Medical Technology, Inc](http://www.imsightmed.com/article/en), work with [Dr.Chen](http://appsrv.cse.cuhk.edu.hk/~hchen/) and [Dr.Dou](https://carrend.github.io/)**
+**09/17 - 03/19    Algorithm Engineer at [Imsight Medical Technology, Inc](http://www.imsightmed.com/article/en), work with [Dr. Hao Chen](http://appsrv.cse.cuhk.edu.hk/~hchen/) and [Dr. Qi Dou](https://carrend.github.io/)**
 - Deep Learning based high performance algorithm development for Medical image analysis.
 
 **07/17 - 09/17    Research Assistant  at [Institute of Biomedical and Health Engineering,  SIAT](http://english.siat.cas.cn/SI2017/IBHE2017/)**
@@ -48,7 +49,7 @@ Learn more about me, please check [CV](https://drive.google.com/open?id=127YPQsk
 **09/16 - 11/16    Research Intern at Samsung Electronics (China)R&D Center**
 - Scene Text Image Synthesis, Estimate Depth From Single RGB Image, Image Segmentation, Image Fusion, etc.
 
-**05/16 - 09/16    Research Intern supervised by Dr.Shandong, Wang and [Dr.Yurong, Chen ](https://www.linkedin.com/company/intel-corporation/)    [Intel Labs China](https://www.linkedin.com/company/intel-corporation/)**
+**05/16 - 09/16    Research Intern supervised by Dr. Shandong, Wang and [Dr. Yurong, Chen ](https://www.linkedin.com/company/intel-corporation/)    [Intel Labs China](https://www.linkedin.com/company/intel-corporation/)**
 - 3D Human Face Reconstruction From Single 2D Image, Facial Expression Transfer, Face Frontalization, etc.
 
 **01/15 - 03/16    Image Processing Engineer  Intern   XueXiBao**
@@ -110,4 +111,4 @@ Learn more about me, please check [CV](https://drive.google.com/open?id=127YPQsk
 
 ---
 
-#### Last update: 2019-04-03
+#### Last update: 2019-04-05
