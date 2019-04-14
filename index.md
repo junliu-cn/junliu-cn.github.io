@@ -41,7 +41,10 @@ Learn more about me, please check [CV](https://drive.google.com/open?id=127YPQsk
 - Deep Learning based high performance algorithm development for Medical image analysis.
 
 **09/17 - 03/19    Algorithm Engineer at [Imsight Medical Technology, Inc](http://www.imsightmed.com/article/en), work with [Dr. Hao Chen](http://appsrv.cse.cuhk.edu.hk/~hchen/) and [Dr. Qi Dou](https://carrend.github.io/)**
-- Deep Learning based high performance algorithm development for Medical image analysis.
+- Algorithm Optimization works: optimize the speed and memory resource consumption for volumetric image analysis algorithms: Lung segmentation and Radiomics algorithms. I do extremely optimize the algorithms for 10 times faster and with almost 50% lower memory resource consumption;
+- Applying state-of-the-art Fine-Grained related ideas to address large intra-class variance and small inter-class variance in Benign&Malignant and Subtype Multi-Class Classification for pulmonary nodule;
+- I designed an effective, fast and accurate algorithm which is implemented in c++11 to detect the same nodules in different series of follow-up images; 
+- Built a stable CS software called Lung-Sight which is a developed lung cancer screening system with the cutting-edge AI technologies. 
 
 **07/17 - 09/17    Research Assistant  at [Institute of Biomedical and Health Engineering,  SIAT](http://english.siat.cas.cn/SI2017/IBHE2017/)**
 - RMF based Vessel planar parameterization.
