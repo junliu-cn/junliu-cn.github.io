@@ -38,7 +38,8 @@ Learn more about me, please check [CV](https://drive.google.com/open?id=127YPQsk
 
 # Work Experience 
 **03/19 - Present   Algorithm Engineer at [PingAn Technology, Inc](https://tech.pingan.com/en/)**
-- Deep Learning based high performance algorithm development for Medical image analysis.
+- Built a CS backend software which is based on LabelMe and designed for labeling multi-modal images.
+- Develop an algorithm which is based on deep learning techniques to address Benign&Malignant classification problem for breast lesions.
 
 **09/17 - 03/19    Algorithm Engineer at [Imsight Medical Technology, Inc](http://www.imsightmed.com/article/en), work with [Dr. Hao Chen](http://appsrv.cse.cuhk.edu.hk/~hchen/) and [Dr. Qi Dou](https://carrend.github.io/)**
 - Algorithm Optimization works: optimize the speed and memory resource consumption for volumetric image analysis algorithms: Lung segmentation and Radiomics algorithms. I do extremely optimize the algorithms for 10 times faster and with almost 50% lower memory resource consumption;
@@ -81,6 +82,9 @@ Learn more about me, please check [CV](https://drive.google.com/open?id=127YPQsk
 ---
 # Project Experience
 
+**03/19 - 06/19    PaicLabelTool    [PATech]**
+- Develop a CS backend software for labeling medical images.  The software is so-called PaicLabelTool, which is well designed for labeling multi-modal images, such as thyroid ultrasound image, breast mammography image, and breast ultrasound image, and it's very easy to be extended to other modal images.  PaicLabelTool is based on LabelMe which is an open source software for labeling natural images.  I redefined PaicLabelTool as an MVC software which mainly includes six modules, Tool Bar module, Canvas module, Patient Diagnosis Information module, Annotation List module, File Tree Widget module, and the last one is the AI module.  Doctors can select different tools from the Tool Bar module, such as polygon, rectangle, and curve, to labeling the lesions and a JSON format file with a mask file in PNG format will be saved automatically when doctors click the save button.  I also designed a multi-view canvas for displaying breast mammography image which usually contains L-CC, R-CC, L-MLO, and R-MLO views.  I extracted diagnosis information from pathological diagnosis Excel table and compressed the information into an NPY format file.  Qt-based Multi-Thread Class is designed for loading the compressed NPY file automatically when the software is launched and the corresponding modal is selected.  Doctors can manipulate annotations in the Annotation List module, once annotation in the List module is selected and the corresponding delineation in the canvas is selected automatically.  Doctors can import files from a directory and the files in the directory will be structured according to two conditions which are patient ID and check date.  The AI module which can output AI results automatically, so PaicLabelTool is actually a semi-automatic labeling tool, doctors can make adjustments based on AI results, thus we improved the efficiency of labeling and reduced the heavy manual works.
+
 **01/19 - 02/19    Humpback whale identification    [Kaggle]**
 - Humpback whale identification is an Open Set Few-Shot Fine-Grained image classification problem, which includes 
 5005 different whale classes. Especially, an unknown class exists, named new class, embedding learning is selected 
@@ -120,4 +124,4 @@ to address this extremely hard task. I got Private LB: 0.928, ranking top4%.
 
 ---
 
-#### Last update: 2019-04-08
+#### Last update: 2019-07-09
