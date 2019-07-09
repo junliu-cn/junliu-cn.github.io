@@ -31,7 +31,7 @@
 ---
 # About Me
 I am currently a Deep Learning Algorithm Engineer at [PingAn Technology, Inc.](https://tech.pingan.com/en/) Formerly I was with [Shenzhen Institutes of Advanced Technology(SIAT) ](http://english.siat.cas.cn/)as a Research Assistant, which I joined after obtained  Master Degree from [the School of Mathematical Sciences, Capital Normal University](http://math.cnu.edu.cn/) at Jun 2017. I also interned at Text Processing Lab of Samsung Electronics and Cognitive Computing Lab of Intel. My research interests mainly revolve around Artificial Intelligence and Medical Image Analysis with special interest in deep learning techniques for high performance algorithm development.
-Learn more about me, please check [CV](https://drive.google.com/open?id=127YPQskghsEp05eZeYwL_3EULCUIHbHM), [LinkedIn](https://www.linkedin.com/in/chris-j-liu-87471a111/). 
+Learn more about me, please check my [CV](https://drive.google.com/file/d/1oxqpl20ZXtnlFUhP78jySm20jAfFgq5g/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/chris-j-liu-87471a111/). 
 
 
 ---
@@ -54,9 +54,9 @@ Learn more about me, please check [CV](https://drive.google.com/open?id=127YPQsk
 - Scene Text Image Synthesis, Estimate Depth From Single RGB Image, Image Segmentation, Image Fusion, etc.
 
 **05/16 - 09/16    Research Intern supervised by Dr. Shandong, Wang and [Dr. Yurong, Chen ](https://www.linkedin.com/company/intel-corporation/)    [Intel Labs China](https://www.linkedin.com/company/intel-corporation/)**
-- 3D Human Face Reconstruction From Single 2D Image, Facial Expression Transfer, Face Frontalization, etc.
+- 3D Human Face Reconstruction From Single 2D Image, Facial Expression Transfer, Face Frontalisation, etc.
 
-**01/15 - 03/16    Image Processing Engineer  Intern   XueXiBao**
+**01/15 - 03/16    Image Processing Engineer Intern at XueXiBao**
 - Image Denoise, Image Deblur, Image Warpping,  etc.
 
 
