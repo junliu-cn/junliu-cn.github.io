@@ -118,7 +118,7 @@ to address this extremely hard task. I got Private LB: 0.928, ranking top4%.
 **05/16 - 09/16    Face Frontalisation     [Intel Labs China]**
 - “Frontalisation” is the process of synthesizing frontal facing views of faces appearing in single unconstrained photos. Our method produces a new face image of frontal views which can be used for face recognition and other purposes.
 
-**02/16 - 03/16    Skewed Document Image Correction     [XueXiBao]**
+**02/16 - 03/16    Automatical Correction Algorithm for Skewed Document Image     [XueXiBao]**
 - The idea is to turn your smartphone into a fast, efficient scanner, one that automatically deposits documents, business cards, receipts, books, whiteboards, and other real-world items into a various destination with images automatically adjusted as you move around. 
 
 
