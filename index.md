@@ -19,7 +19,7 @@
     </td>
     <td width="30%" border="0">
         <div id="photo" style="float:right;">
-        <img src="https://media.licdn.com/dms/image/C5103AQGBgs0MXvd4NA/profile-displayphoto-shrink_200_200/0?e=1559779200&v=beta&t=uzI3pPT1rZri0znrOqmBfZsfzIpkfuPKLpyCqhe5Zqk" alt="my photo" style="width:311px;height:232;"> 
+        <img src="./pic.jpeg" alt="my photo" style="width:311px;height:232;"> 
         </div>
     </td>
     <td width="5%" border="0"></td>
