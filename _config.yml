@@ -1,8 +1,1 @@
 theme: jekyll-theme-cayman
-title: null
-
-@import "{{ site.theme }}";
-
-header {
-  display: none;
-}
