@@ -31,7 +31,7 @@
 ---
 # About Me
 I am currently a Deep Learning Algorithm Engineer at [PingAn Technology, Inc.](https://tech.pingan.com/en/) Formerly I was with [Shenzhen Institutes of Advanced Technology(SIAT) ](http://english.siat.cas.cn/)as a Research Assistant, which I joined after obtained  Master's Degree from [the School of Mathematical Sciences, Capital Normal University](http://math.cnu.edu.cn/) at Jun 2017. I also interned at the Text Processing Lab of Samsung Electronics and Cognitive Computing Lab of Intel. I am dedicated to interdisciplinary researches at medical image analysis and artificial intelligence, for improving lesion detection, anatomical structure segmentation and quantification, cancer diagnosis and therapy.
-Learn more about me, please check my [CV](https://drive.google.com/file/d/10WYqK94t4UASvZS-Ww3ZbyLsK14fMXmu/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/chris-j-liu-87471a111/). 
+Learn more about me, please check my [CV](https://drive.google.com/file/d/1iiHTc5MSe9bqpRpHPmI3tug_PWtBBS-3/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/chris-j-liu-87471a111/). 
 
 
 ---
