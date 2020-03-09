@@ -56,8 +56,6 @@ Learn more about me, please check my [CV](https://drive.google.com/file/d/1964h4
 **05/16 - 09/16    Research Intern supervised by Dr. Shandong, Wang and [Dr. Yurong, Chen ](https://www.linkedin.com/company/intel-corporation/)    [Intel Labs China](https://www.linkedin.com/company/intel-corporation/)**
 - 3D Human Face Reconstruction From Single 2D Image, Facial Expression Transfer, Face Frontalisation, etc.
 
-**01/15 - 03/16    Image Processing Engineer Intern at XueXiBao**
-- Image Denoise, Image Deblur, Image Warpping,  etc.
 
 ---
 
