@@ -38,13 +38,13 @@ Learn more about me, please check my [CV](https://drive.google.com/file/d/1964h4
 
 # Work Experience 
 **03/19 - Present   Algorithm Engineer at [PingAn Technology, Inc](https://tech.pingan.com/en/)**
-- Classification of Benign and Malignant Breast Tumors in Ultrasound Images.
+- Benign and Malignant Classification of Breast Tumors in Ultrasound Images Based on MetaData and Textural Features.
 - Built a CS backend software which is based on LabelMe and designed for labeling multi-modal images.
 
 **09/17 - 03/19    Algorithm Engineer at [Imsight Medical Technology, Inc](http://www.imsightmed.com/article/en), work with [Dr. Hao Chen](http://appsrv.cse.cuhk.edu.hk/~hchen/) and [Dr. Qi Dou](https://carrend.github.io/)**
-- Algorithm Optimization works: optimize the speed and memory resource consumption for volumetric image analysis algorithms: Lung segmentation and Radiomics algorithms. I do extremely optimize the algorithms for 10 times faster and with almost 50% lower memory resource consumption;
-- Applying state-of-the-art Fine-Grained related ideas to address large intra-class variance and small inter-class variance in Benign&Malignant and Subtype Multi-Class Classification for pulmonary nodule;
-- I designed an effective, fast and accurate algorithm which is implemented in c++11 to detect the same nodules in different series of follow-up images; 
+- Algorithm Optimization works: optimize the speed and memory resource consumption for volumetric image analysis algorithms: Lung segmentation and Radiomics algorithms. I do extremely optimize the algorithms for 10 times faster and with almost 50% lower memory resource consumption.
+- Applying state-of-the-art Fine-Grained related ideas to addressing tricky issues (Large Intra-Class Variance and Small Inter-Class Variance) in Attributes Classification (Benign&Malignant, Ground-Glass&Solid＆Calcification) of the pulmonary nodule.
+- I designed an effective, fast and accurate algorithm which is implemented in c++11 to detect the same nodules in different series of follow-up images.
 - Built a stable CS software called Lung-Sight which is a developed lung cancer screening system with the cutting-edge AI technologies. 
 
 **07/17 - 09/17    Research Assistant  at [Institute of Biomedical and Health Engineering,  SIAT](http://english.siat.cas.cn/SI2017/IBHE2017/)**
