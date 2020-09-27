@@ -1,13 +1,10 @@
 ---
-title: 'Git Tricks'
+title: 'A Survey of Semi-Supervised Learning papers in MICCAI1818'
 date: 2019-04-27
 permalink: /posts/2019/04/A-Survey-of-Semi-Supervised-Learning-papers-in-MICCAI18/
 tags:
   - Semi-Supervised-Learning
 ---
-
-# A Survey of Semi-Supervised Learning papers in MICCAI18
-
 
 &emsp;&emsp;主要对MICCAI18的半监督学习的文章进行了survey。通过"semi-supervised"关键字进行检索，发现4篇文献标题包含该关键字。4篇文章无一例外都在做分割任务，[1]应用在盆骨器官分割，[6]做脑区域分割，[9]研究心肌分割，[11]做肝脏、肿瘤分割，下面分别进行介绍。
 
