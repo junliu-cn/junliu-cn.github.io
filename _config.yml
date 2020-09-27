@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jun Liu"
 title_separator          : "-"
 name                     : &name "Jun Liu"
-description              : &description "R&D on Perception, Prediction and Planning."
+description              : &description "Medical image analysis and artificial intelligence."
 url                      : https://chrisluu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chrisluu/chrisluu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jun Liu"
   avatar           : "profile.jpeg"
-  bio              : "Computer Science Undergraduate Student at Beijing University of Posts and Telecommunications."
+  bio              : "the School of Mathematical Sciences, Capital Normal University."
   location         : "Changsha, China"
   employer         : "MatrixTime"
   googlescholar    :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JunLiu"
+  github           : "chrisluu"
   google_plus      :
   keybase          :
   instagram        :
