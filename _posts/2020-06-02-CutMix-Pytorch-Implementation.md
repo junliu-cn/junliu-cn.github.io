@@ -1,8 +1,9 @@
+---
 title: 'CutMix'
 date: 2020-06-02
-permalink: /posts/CutMix-Pytorch-Implementation/
+permalink: /posts/2020/06/CutMix-Pytorch-Implementation/
 tags:
-  - Loss
+  - template
 ---
 
 ### Version 1

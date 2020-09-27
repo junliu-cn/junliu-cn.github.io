@@ -1,8 +1,9 @@
+---
 title: 'Git Tricks'
 date: 2020-09-22
-permalink: /posts/Git-Tricks/
+permalink: /posts/2020/09/Git-Tricks/
 tags:
-  - Git
+  - template
 ---
 
 ### git 丢弃本地未提交修改
