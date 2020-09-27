@@ -6,6 +6,8 @@ tags:
   - template
 ---
 
+git tricks for better experience.
+
 ### git 丢弃本地未提交修改
 - git checkout .
 

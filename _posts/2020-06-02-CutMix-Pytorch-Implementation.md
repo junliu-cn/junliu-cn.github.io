@@ -1,10 +1,13 @@
 ---
-title: 'CutMix'
+title: 'CutMix Pytorch Version'
 date: 2020-06-02
 permalink: /posts/2020/06/CutMix-Pytorch-Implementation/
 tags:
   - template
 ---
+
+pytorch implementation for cutmix.
+
 
 ### Version 1
 ```
