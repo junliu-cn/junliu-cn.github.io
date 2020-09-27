@@ -3,7 +3,7 @@ title: 'Segmentation Loss Pytorch Version'
 date: 2019-08-23
 permalink: /posts/2019/08/segmentation-loss/
 tags:
-  - Loss
+  - Loss for segmentation 
 ---
 
 segmentation loss in pytorch

@@ -3,7 +3,7 @@ title: 'BRIGHTNESS, CONTRAST, SATURATION AND SHARPNESS'
 date: 2020-06-28
 permalink: /posts/2020/06/brightness-contrast-saturation-sharpness/
 tags:
-  - template
+  - Digital Image
 ---
 
 comparision for [BRIGHTNESS, CONTRAST, SATURATION, AND SHARPNESS](http://www.steves-digicams.com/knowledge-center/brightness-contrast-saturation-and-sharpness.html#b)

@@ -3,7 +3,7 @@ title: 'Git Tricks'
 date: 2020-09-22
 permalink: /posts/2020/09/Git-Tricks/
 tags:
-  - template
+  - Git
 ---
 
 git tricks for better experience.
