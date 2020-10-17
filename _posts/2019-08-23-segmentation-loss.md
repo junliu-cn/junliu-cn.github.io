@@ -28,8 +28,6 @@ def criterion_pixel(logit_pixel, truth_pixel):
     return loss
 ```
 ### weighted soft dice 
-(treat as dot product or cos distance? … can be modified to add angular margin? )
-see also: https://lars76.github.io/neural-networks/object-detection/losses-for-segmentation/
 
 ```
 def criterion_pixel(logit_pixel, truth_pixel):
