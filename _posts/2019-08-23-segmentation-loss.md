@@ -28,7 +28,6 @@ def criterion_pixel(logit_pixel, truth_pixel):
     return loss
 ```
 ### weighted soft dice 
-
 ```
 def criterion_pixel(logit_pixel, truth_pixel):
     batch_size = len(logit_pixel)
