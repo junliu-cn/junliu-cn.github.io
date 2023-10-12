@@ -1,3 +1,5 @@
+### 双线性插值的几个问题分析
+
 ### [双线性插值](https://meghal-darji.medium.com/implementing-bilinear-interpolation-for-image-resizing-357cbb2c2722)
 #### 源图像和目标图像几何中心的对齐 
 解决方法：

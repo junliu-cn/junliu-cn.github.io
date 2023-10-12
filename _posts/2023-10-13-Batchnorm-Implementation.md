@@ -1,4 +1,5 @@
-### 批量归一化
+批量归一化
+
 ```
 def batch_norm(X, gamma, beta, moving_mean, moving_var, eps, momentum):
     # 通过is_grad_enabled来判断当前模式是训练模式还是预测模式

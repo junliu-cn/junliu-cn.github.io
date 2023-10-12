@@ -1,4 +1,3 @@
- ### Tversky loss
 Tversky loss（Tversky损失）是一种用于衡量两个集合之间相似性的损失函数，通常用于图像分割和医学图像分析等领域。它是由Amos Tversky于1977年提出的，用于比较两个集合（通常是二进制掩模或分割结果），以评估它们的相似性。Tversky loss在处理不平衡数据和强调不同类型错误的情况下非常有用。
 
 Tversky loss的一般形式如下：
